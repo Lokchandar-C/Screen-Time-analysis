@@ -8,12 +8,6 @@ This project involves analyzing screen time data to gain insights into app usage
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Analysis](#analysis)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
