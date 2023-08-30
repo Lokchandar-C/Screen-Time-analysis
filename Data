@@ -1,1 +1,10 @@
+the source of the data is kaggle
+"https://www.kaggle.com/datasets/ruchi798/analyzing-screen-time"
 
+About Dataset
+This dataset contains the usage statistics of various apps on a phone.
+
+Inspiration:
+
+Do the number of notifications and the number of times the user opens an app have a correlation?
+Does usage have a correlation with the number of notifications?
